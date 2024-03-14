@@ -1,4 +1,3 @@
-import Promise from 'bluebird';
 import sizeOf from 'image-size';
 import Canvas from 'canvas';
 import { computeRowLayout } from './layouts/justified';
